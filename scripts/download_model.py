@@ -14,7 +14,7 @@ import sys
 import urllib.request
 from pathlib import Path
 
-REPO = "ayushrajdev9-cmyk/a2llm"
+REPO = "ayushrajdev-dev/a2llm"
 RELEASE = "v0.3.0"
 # asset name -> friendly name (keep in sync with the GitHub release)
 MODELS = {

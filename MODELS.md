@@ -2,8 +2,8 @@
 
 ======================================================================
 A2LLM - MODELS & PARAMETERS  (updated)
-Repo: https://github.com/ayushrajdev9-cmyk/a2llm
-Releases: https://github.com/ayushrajdev9-cmyk/a2llm/releases
+Repo: https://github.com/ayushrajdev-dev/a2llm
+Releases: https://github.com/ayushrajdev-dev/a2llm/releases
 ======================================================================
 
 model                     params       fp32       int8   where it runs

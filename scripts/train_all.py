@@ -25,7 +25,7 @@ import subprocess
 import sys
 
 TOKEN = os.environ.get("GH_TOKEN", "")
-REPO = "https://github.com/ayushrajdev9-cmyk/a2llm.git"
+REPO = "https://github.com/ayushrajdev-dev/a2llm.git"
 WORK = "/tmp/a2llm"
 TIERS = ["nano (v0.4.0)", "micro (v0.7.0)", "mini (v0.6.0)", "small (v0.5.0)", "base (v0.8.0)", "large (v0.9.0)"]
 
@@ -59,7 +59,7 @@ def main() -> None:
 
     print("""
 ALL 6 MODELS TRAINED + PUBLISHED
-  https://github.com/ayushrajdev9-cmyk/a2llm/releases
+  https://github.com/ayushrajdev-dev/a2llm/releases
     """)
 
 

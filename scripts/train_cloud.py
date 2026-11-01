@@ -27,7 +27,7 @@ PRESETS = {
     "large": {"steps": 30000, "batch": 128,  "asset": "a2llm-large.pt", "release": "v0.9.0", "row": "a2llm-large",      "params": "14,479,104"},
 }
 ORDER = ["nano", "micro", "mini", "small", "base", "large"]
-OWNER, REPO = "ayushrajdev9-cmyk", "a2llm"
+OWNER, REPO = "ayushrajdev-dev", "a2llm"
 DATA = "data/pretrain_multilingual.txt"
 
 

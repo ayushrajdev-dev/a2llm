@@ -2,7 +2,7 @@
 
 The `nano` tier (34,432 params, int8) running on an ESP32 / S3 / C3.
 
-Trained model: `a2llm-esp32-nano.pt` — [v0.1.0](https://github.com/ayushrajdev9-cmyk/a2llm/releases/tag/v0.1.0).
+Trained model: `a2llm-esp32-nano.pt` — [v0.1.0](https://github.com/ayushrajdev-dev/a2llm/releases/tag/v0.1.0).
 
 ```bash
 python scripts/export_esp32.py checkpoints/nano/best.pt   # -> esp32/main/weights.h
